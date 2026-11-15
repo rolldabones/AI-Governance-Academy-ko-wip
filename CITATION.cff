@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you cite this work, please cite the English edition as the text of record; cite this Korean edition only for its translation, and state its review status."
+title: "AI 거버넌스 아카데미 한국어판 (AI Governance Academy, Korean edition)"
+authors:
+  - family-names: "Paik"
+    given-names: "Son-U Michael"
+version: 0.1.0
+date-released: "2026-11-15"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/rolldabones/AI-Governance-Academy-ko-wip"
+abstract: "Parallel Korean repository of AI-Governance-Academy: the Korean text of The Evidence and the Exit, an Advanced Workshop on the Hinton Lectures 2026, translated from English v1.22.0. Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review)."
+references:
+  - type: generic
+    title: "AI Governance Academy: Client Content Prompt Pack and Publications"
+    authors:
+      - family-names: "Paik"
+        given-names: "Son-U Michael"
+    version: 1.22.0
+    date-released: "2026-11-15"
+    repository-code: "https://github.com/rolldabones/AI-Governance-Academy"
