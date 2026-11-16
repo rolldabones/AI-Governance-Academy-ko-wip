@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.1.2 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): the mirror of English `AI-Governance-Academy` v1.24.4, which corrects *The Evidence and the Exit* for the 2026 *Boeing* decision (account-maintenance `OPEN-ITEMS.md` item 48(a)), corrected in translation on Michael Paik's ruling of 16 November 2026 for the book. Translated by Claude (claude-opus-5-5) in the remediation session, in the terms of the Korean edition of the book, with the Chapter 15 terms as the author ruled them in its v0.2.5 (item 48(b)). README and CITATION.cff to v0.1.2. Status unchanged: 초벌 번역, 저자 검토 중. Prepared with Claude, approved by Michael Paik.
+
+- **`the-evidence-and-the-exit-ko.md`, mirroring the English:** a dated amendment note (개정 노트); the Rule's status note; the Oversight bullet; the Conclusion; the sources (the opinion added, the Forum post recorded as the earlier source, the opinion removed from what was not read). The supersession entry 2026년 결정 전에 쓰였고 is now quiet in class D.
+- One term rendered here for the first time, for the author's ruling with the line review: demand futility = 제소 청구 무익(demand futility). Rule 23.1, demand, particularized facts, yellow flag and red flag follow the book's Chapter 15 as corrected in its v0.2.5 (형평법원 규칙(Court of Chancery Rule) 23.1, 제소 청구(demand), 구체적이고 특정된 사실(particularized facts), 주의 신호(yellow flag), 경고 신호(red flag)).
+
 ## v0.1.1 (2026-11-16)
 
 Patch release, 16 November 2026 (KST). The terms first rendered in v0.1.0 are accepted: Michael Paik ruled on 15 November 2026 that they are no longer assumptions awaiting his ruling. The heading of their list in the v0.1.0 entry below says so; the list itself is unchanged. No translated text changes: `the-evidence-and-the-exit-ko.md` is byte for byte as released in v0.1.0. The README's two status sentences on what remains (Korean and English) now name the line review only; README and CITATION.cff to v0.1.1. The status label stays 초벌 번역, 저자 검토 중 until the line review is complete. Prepared with Claude, approved by Michael Paik.
