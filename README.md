@@ -7,7 +7,7 @@
 **Son-U Michael Paik**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.1.0 · 2026년 11월 15일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
+**v0.1.1 · 2026년 11월 16일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
 
 > **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 v1.22.0의 출판물을 기계 번역한 초벌 원고이며, 저자가 한 줄씩 검토하고 있다. 완성된 번역이 아니다. 검토가 끝날 때까지 기준 텍스트는 영어판이며, 두 판이 다를 때에는 영어판이 우선한다.
 
@@ -37,11 +37,11 @@ GRC Solutions Korea 대표이사(CEO)
 - 스크립트로 제목 구조(30개), 표의 행(26개), 목록 항목, 링크(88개 모두 일치), 상표 표시, 경고 표시, 맺음말을 영어 원문과 대조하였고, 영어 원문의 189개 블록 각각에 대해 그 블록의 모든 숫자가 대응하는 한국어 블록에 있는지 확인하였다. 이 대조는 구조와 숫자를 확인할 뿐 의미의 정확성을 확인하지는 않는다.
 - 이 글에서 새로 정한 용어는 저자의 판단을 기다리는 가정이며 [CHANGELOG.md](CHANGELOG.md)에 목록으로 적었다.
 
-검토가 남아 있다. 저자의 한 줄씩 검토와 새 용어에 대한 판단이다. 검토가 끝나면 상태 표시를 바꾼다.
+검토가 남아 있다. 저자의 한 줄씩 검토이다. 이 저장소에서 처음 옮긴 용어는 저자가 2026년 11월 15일 승인하였다([CHANGELOG.md](CHANGELOG.md)). 검토가 끝나면 상태 표시를 바꾼다.
 
 ## 인용
 
-> Paik, Son-U Michael. 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.1.0, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
+> Paik, Son-U Michael. 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.1.1, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
 
 내용을 인용할 때는 기준 텍스트인 영어판을 인용한다. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있다.
 
@@ -59,7 +59,7 @@ GRC Solutions Korea 대표이사(CEO)
 
 **How it was made.** The translation was made the way the piece says AI work should be governed: the model's output is a draft and a named human answers for the result. On 15 November 2026 the whole English text was translated in the same Claude session that edited it (Claude Fable 5.2, claude-fable-5-2), section by section and not as a batch; no second model and no person has reviewed it independently yet. The instructions follow the [Korean edition of the book](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip): the register (한다체), the doctrine names (in English, with the Korean gloss at first use in each file), the fixed terms and the doctrines' short forms in that edition's wording. Case names, statutory citations, titles of English sources, quoted words and speakers' names stay as written, and quoted words carry a Korean gloss in parentheses. A script compared the file with its English source for headings (30), table rows (26), list items, links (all 88 present), trademark and warning marks and the closing line, and checked that every number in each of the 189 English blocks appears in the matching Korean block. That comparison tests structure and numbers. It does not test meaning.
 
-**What remains.** The author's line review, and his ruling on the terms first rendered here, which are listed in the CHANGELOG as assumptions. The status label changes when that review is complete.
+**What remains.** The author's line review. The terms first rendered here, listed in the CHANGELOG, were accepted by the author on 15 November 2026. The status label changes when that review is complete.
 
 **Cite** the English edition for its content. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 

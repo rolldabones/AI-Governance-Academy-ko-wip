@@ -2,6 +2,10 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.1.1 (2026-11-16)
+
+Patch release, 16 November 2026 (KST). The terms first rendered in v0.1.0 are accepted: Michael Paik ruled on 15 November 2026 that they are no longer assumptions awaiting his ruling. The heading of their list in the v0.1.0 entry below says so; the list itself is unchanged. No translated text changes: `the-evidence-and-the-exit-ko.md` is byte for byte as released in v0.1.0. The README's two status sentences on what remains (Korean and English) now name the line review only; README and CITATION.cff to v0.1.1. The status label stays 초벌 번역, 저자 검토 중 until the line review is complete. Prepared with Claude, approved by Michael Paik.
+
 ## v0.1.0 (2026-11-15)
 
 First release, 15 November 2026 (KST): the Korean machine draft of *The Evidence and the Exit: An Advanced Workshop on the Hinton Lectures 2026*, published for the author's line review. Decided by Michael Paik on 15 November 2026: a parallel repository in Korean, on the precedent of [final-liability-rests-with-the-human-ko-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip), under this name. Prepared with Claude, approved by Michael Paik.
@@ -15,7 +19,7 @@ First release, 15 November 2026 (KST): the Korean machine draft of *The Evidence
 - **By script, against the English source:** 30 headings at the same levels; 26 table rows with the same cell counts; 90 list items and 10 numbered statements; all 88 links present, with two more in the status note that point to the English edition; three trademark marks, three ⚠ marks and nine "Unknown"; the closing line last; no em dash. Every number in each of the 189 English blocks appears in the matching Korean block. The Contents list is generated from the translated section headings.
 - **Not checked:** meaning, by anyone other than the session that translated it. A check of structure and numbers does not show that a sentence says what its source says.
 
-### Terms first rendered here, as assumptions awaiting the author's ruling
+### Terms first rendered here, accepted by the author on 15 November 2026
 - Advanced Workshop = 심화 워크숍(Advanced Workshop); the title = 증거와 출구.
 - exit: 종료 where it is the fourth element of an Informed Intent authorization, 출구 where it is the title's word, a GRCnext™ Exit or a working way out.
 - alignment = 정렬; reward hacking = 보상 해킹; grader and scorer = 채점기; evaluator = 평가자; shortcut = 지름길; swarm = 스웜.
