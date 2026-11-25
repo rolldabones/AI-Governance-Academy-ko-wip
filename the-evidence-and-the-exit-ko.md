@@ -4,7 +4,7 @@
 
 **2026년 힌턴 강연(Hinton Lectures 2026)에 관한 심화 워크숍(Advanced Workshop)**
 
-Son-U Michael Paik · GRC Solutions Korea 대표이사(CEO)
+백선우 · GRC Solutions Korea 대표이사(CEO)
 
 2026년 11월 15일
 

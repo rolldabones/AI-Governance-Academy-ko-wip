@@ -4,7 +4,8 @@ title: "AI 거버넌스 아카데미 한국어판 (AI Governance Academy, Korean
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 0.2.0
+    alias: "백선우"
+version: 0.2.1
 date-released: "2026-11-25"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/rolldabones/AI-Governance-Academy-ko-wip"

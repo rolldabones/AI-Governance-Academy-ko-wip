@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.1 (2026-11-25)
+
+Patch release, 25 November 2026 (KST): the author's Korean name in the Korean bylines, on Michael Paik's ruling of 25 November 2026 (book Korean edition v0.3.1). Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
+
+- 백선우 in place of Son-U Michael Paik in the README masthead and the byline of *The Evidence and the Exit*; the Korean citation reads 백선우(Son-U Michael Paik). The English section, LICENSE.md and the commit identity keep Son-U Michael Paik; CITATION.cff adds alias 백선우.
+- README and CITATION.cff to v0.2.1. Status unchanged: 초벌 번역, 저자 검토 중.
+
 ## v0.2.0 (2026-11-25)
 
 Minor release, 25 November 2026 (KST): the register of the README and the doctrine gloss revised after feedback from a Korean reader on the Korean edition of the book, on Michael Paik's ruling of 25 November 2026 (book Korean edition v0.3.0). Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
