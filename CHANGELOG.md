@@ -2,6 +2,14 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.0 (2026-11-25)
+
+Minor release, 25 November 2026 (KST): the register of the README and the doctrine gloss revised after feedback from a Korean reader on the Korean edition of the book, on Michael Paik's ruling of 25 November 2026 (book Korean edition v0.3.0). Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
+
+- **README.** The Korean section moves from 한다체 to 합니다체, in the wording adopted for the book's README; the status line keeps the statement that the text was translated with AI. It now also states that the correction of English v1.24.4 was carried (v0.1.2), where it named only v1.22.0, and the English section records the change.
+- **The Evidence and the Exit.** The gloss on the doctrine name in the thesis section (명제) reads (최종 책임은 인간이 진다), following the book's new Korean title, as this repository's rule on the doctrines' short forms requires. No other line of the publication changes; it stays in 한다체.
+- README and CITATION.cff to v0.2.0. Status unchanged: 초벌 번역, 저자 검토 중.
+
 ## v0.1.2 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): the mirror of English `AI-Governance-Academy` v1.24.4, which corrects *The Evidence and the Exit* for the 2026 *Boeing* decision (account-maintenance `OPEN-ITEMS.md` item 48(a)), corrected in translation on Michael Paik's ruling of 16 November 2026 for the book. Translated by Claude (claude-opus-5-5) in the remediation session, in the terms of the Korean edition of the book, with the Chapter 15 terms as the author ruled them in its v0.2.5 (item 48(b)). README and CITATION.cff to v0.1.2. Status unchanged: 초벌 번역, 저자 검토 중. Prepared with Claude, approved by Michael Paik.

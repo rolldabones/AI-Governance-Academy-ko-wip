@@ -4,8 +4,8 @@ title: "AI 거버넌스 아카데미 한국어판 (AI Governance Academy, Korean
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 0.1.2
-date-released: "2026-11-16"
+version: 0.2.0
+date-released: "2026-11-25"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/rolldabones/AI-Governance-Academy-ko-wip"
 abstract: "Parallel Korean repository of AI-Governance-Academy: the Korean text of The Evidence and the Exit, an Advanced Workshop on the Hinton Lectures 2026, translated from English v1.22.0. Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review)."

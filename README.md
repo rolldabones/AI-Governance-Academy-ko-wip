@@ -7,19 +7,19 @@
 **Son-U Michael Paik**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.1.2 · 2026년 11월 16일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
+**v0.2.0 · 2026년 11월 25일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
 
-> **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 v1.22.0의 출판물을 기계 번역한 초벌 원고이며, 저자가 한 줄씩 검토하고 있다. 완성된 번역이 아니다. 검토가 끝날 때까지 기준 텍스트는 영어판이며, 두 판이 다를 때에는 영어판이 우선한다.
+> **번역 및 검토 현황: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 출판물을 AI로 번역한 초벌 번역본으로, 현재 저자의 검토가 진행 중입니다. 아직 최종 번역본은 아니며, 검토가 완료되기 전까지는 영어 원문을 공식 기준으로 합니다. 한국어판과 영어 원문 사이에 차이가 있는 경우 영어 원문이 우선합니다.
 
 [English below](#english)
 
 ---
 
-## 이 저장소는 무엇인가
+## 이 저장소에 관하여
 
-[AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy)의 출판물을 한국어로 옮기는 병행 저장소이다. 영어판은 고객사 대상 프롬프트 템플릿 8개와 출판물 12편을 담고 있으며, 이 저장소는 그 2026년 11월 15일 판인 v1.22.0의 출판물 가운데 한 편을 번역한 것이다. 템플릿은 번역하지 않았다. 나머지 출판물의 번역 여부와 순서는 저자가 정한다.
+이 저장소는 [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy)의 출판물을 한국어로 옮겨 제공합니다. 영어판에는 고객사 대상 프롬프트 템플릿과 출판물이 함께 실려 있으며, 이 저장소는 2026년 11월 15일자 영어판 v1.22.0을 기준으로 그중 출판물 한 편을 번역했습니다. 이후 영어판 v1.24.4의 *Boeing* 관련 정정 사항도 번역하여 반영했습니다. 템플릿은 번역하지 않았으며, 다른 출판물의 번역 여부와 순서는 저자가 정합니다.
 
-출판물에 쓰이는 세 원칙, 즉 **Slow AI**(슬로우 AI), **Informed Intent**(정보에 기반한 의도), **Final Liability**(최종 책임)는 영어 이름 그대로 쓰고 각 파일에서 처음 나올 때 한국어 풀이를 붙였다. 원칙의 규범적 진술은 계정의 단일 기준 문서인 [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md)에 있다.
+출판물에 쓰이는 세 가지 핵심 원칙인 **Slow AI**(슬로우 AI), **Informed Intent**(정보에 기반한 의도), **Final Liability**(최종 책임)는 영문 명칭을 그대로 사용하되, 각 파일에서 처음 등장할 때 한국어 설명을 덧붙였습니다. 각 원칙의 규범적 내용은 계정 전체의 기준 문서인 [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md)에서 확인할 수 있습니다.
 
 ## 파일
 
@@ -29,31 +29,32 @@ GRC Solutions Korea 대표이사(CEO)
 
 ## 번역 방식
 
-이 글은 AI를 규율하는 방식대로 번역되었다. 모델의 출력은 초안으로 다루고, 이름이 특정된 인간이 그 결과에 대한 책임을 진다.
+이 글은 AI를 활용하여 번역했으며, 저자가 번역 결과를 검토하는 방식으로 작업했습니다. 이 글이 AI 작업에 요구하는 방식 그대로, AI가 생성한 번역문은 초안이며 최종적인 판단과 책임은 저자에게 있습니다.
 
-- 2026년 11월 15일, 영어 원문을 편집한 것과 같은 Claude 세션(Claude Fable 5.2, claude-fable-5-2)에서 영어 원문 전체를 한국어로 옮겼다. 일괄 처리(batch)가 아니라 한 세션에서 절 단위로 번역하였고, 두 번째 모델이나 사람에 의한 독립적 검토는 아직 없다.
-- 번역 지침은 [한국어판 책](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)의 것을 따랐다. 문체(한다체), 원칙 이름, 고정 용어(예: governance, risk management and compliance = 거버넌스, 리스크 관리 및 컴플라이언스), 조문 번호, 사건명, 날짜의 처리가 그것이다. 원칙의 약식 진술은 한국어판 책의 문장을 그대로 썼다.
-- 판례명, 법령 인용, 영어 문헌의 제목, 인용 부호 안의 발언, 연사의 이름은 원문 표기를 유지하였다. 인용 부호 안의 발언에는 괄호로 한국어 풀이를 붙였다.
-- 스크립트로 제목 구조(30개), 표의 행(26개), 목록 항목, 링크(88개 모두 일치), 상표 표시, 경고 표시, 맺음말을 영어 원문과 대조하였고, 영어 원문의 189개 블록 각각에 대해 그 블록의 모든 숫자가 대응하는 한국어 블록에 있는지 확인하였다. 이 대조는 구조와 숫자를 확인할 뿐 의미의 정확성을 확인하지는 않는다.
-- 이 글에서 새로 정한 용어는 저자의 판단을 기다리는 가정이며 [CHANGELOG.md](CHANGELOG.md)에 목록으로 적었다.
+- 2026년 11월 15일, 영어 원문을 편집한 Claude 세션(Claude Fable 5.2, claude-fable-5-2)에서 영어 원문 전체를 한국어로 옮겼습니다. 일괄 처리(batch)가 아니라 한 세션에서 절 단위로 번역했으며, 다른 모델이나 사람에 의한 독립적 검토는 아직 거치지 않았습니다.
+- 번역 기준은 [한국어판 책](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)의 기준을 따랐습니다. 문체(본문은 한다체), 세 가지 핵심 원칙의 명칭, 주요 용어(예: governance, risk management and compliance는 '거버넌스, 리스크 관리 및 컴플라이언스'), 조문 번호, 사건명 및 날짜의 표기 원칙이 여기에 해당합니다. 원칙의 약식 진술은 한국어판 책의 문장을 그대로 사용했습니다.
+- 판례명, 법령 인용, 영어 문헌의 제목, 인용 부호 안의 발언, 연사의 이름은 원문 표기를 유지했습니다. 인용 부호 안의 발언에는 괄호로 한국어 설명을 덧붙였습니다.
+- 자동화 스크립트를 이용해 제목 체계(30개), 표의 행(26개), 목록 항목, 링크(88개 모두 일치), 상표 표기, 경고 표시 및 맺음말이 영어 원문과 일치하는지 확인했습니다. 영어 원문의 189개 블록에 대해서는 각 블록의 숫자가 대응하는 한국어 블록에도 모두 있는지 검증했습니다. 이 대조는 구조와 숫자를 확인할 뿐, 의미의 정확성까지 확인하지는 않습니다.
+- 이 글에서 처음 정한 번역 용어는 [CHANGELOG.md](CHANGELOG.md)에 목록으로 기록했으며, 2026년 11월 15일 저자가 승인했습니다.
+- 2026년 11월 25일, 한국어 독자의 의견을 반영하여 이 안내문의 문체를 다듬고, 한국어판 책의 새 제목에 맞추어 원칙 이름의 한국어 설명을 고쳤습니다(v0.2.0).
 
-검토가 남아 있다. 저자의 한 줄씩 검토이다. 이 저장소에서 처음 옮긴 용어는 저자가 2026년 11월 15일 승인하였다([CHANGELOG.md](CHANGELOG.md)). 검토가 끝나면 상태 표시를 바꾼다.
+현재 저자의 문장별 검토가 남아 있습니다. 검토가 완료되면 번역 상태를 갱신할 예정입니다.
 
 ## 인용
 
-> Paik, Son-U Michael. 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.1.2, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
+> Paik, Son-U Michael. 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.2.0, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
 
-내용을 인용할 때는 기준 텍스트인 영어판을 인용한다. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있다.
+내용을 인용할 때는 기준 텍스트인 영어판을 인용해 주십시오. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있습니다.
 
 ## 라이선스
 
-[CC BY-NC-SA 4.0](LICENSE.md). 영어판과 같은 라이선스이다. 상업적 이용은 [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md)에 따른다. 법률 자문이 아니며, 읽는다고 해서 변호사와 의뢰인 관계가 생기지 않는다.
+[CC BY-NC-SA 4.0](LICENSE.md). 영어판과 같은 라이선스입니다. 상업적 이용은 [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md)를 따릅니다. 이 저장소의 내용은 법률 자문이 아니며, 이를 읽는 것만으로 변호사와 의뢰인 관계가 성립하지 않습니다.
 
 ---
 
 ## English
 
-**Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** This repository is the parallel Korean repository of [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy). It holds Korean translations of that repository's client-facing publications, made from English v1.22.0 (15 November 2026). Each is a machine draft that the author is reviewing line by line, not a finished translation. Until that review is complete, the English edition is the text of record and governs wherever the two differ.
+**Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** This repository is the parallel Korean repository of [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy). It holds Korean translations of that repository's client-facing publications, made from English v1.22.0 (15 November 2026), with the correction of English v1.24.4 carried in translation. On 25 November 2026, after feedback from Korean readers, the Korean README moved to the polite register (합니다체) and the doctrine gloss follows the book's new Korean title, 최종 책임은 인간이 진다; the publication stays in 한다체. Each is a machine draft that the author is reviewing line by line, not a finished translation. Until that review is complete, the English edition is the text of record and governs wherever the two differ.
 
 **What is here.** One publication: `the-evidence-and-the-exit-ko.md`, the Korean text of *The Evidence and the Exit: An Advanced Workshop on the Hinton Lectures 2026*. The eight program templates are not translated. Whether and in what order the other eleven publications are translated is the author's decision.
 
