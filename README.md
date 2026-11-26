@@ -1,5 +1,9 @@
 # AI 거버넌스 아카데미: 한국어판
 
+> **2026년 11월 26일 보존판.** 이 저장소는 보존 처리되어 읽기 전용이며, 법률 사항을 포함하여 더 이상 수정되지 않습니다. 기계 초벌 번역이며, 저자 검토는 완료되지 않았습니다. 한국어 작업은 책으로 한정합니다. 유지 관리하는 저장소는 [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md)에 있습니다.
+
+> **Archived edition of 26 November 2026.** This repository is archived and read-only. It receives no corrections, legal ones included: verify every statement of law, regulation or standard against a current primary source before you rely on it. What I maintain, and why this repository is not part of it, is in [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md). Cite this edition as *AI Governance Academy, Korean edition*, v0.2.2 (26 November 2026). The license and [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md) still apply. Reach me at sonupaik@gmail.com. A machine draft. The author's line review was not completed.
+
 *AI Governance Academy, Korean edition*
 
 **고객사 대상 출판물의 한국어 번역**
@@ -7,9 +11,9 @@
 **백선우**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.2.1 · 2026년 11월 25일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
+**v0.2.2 · 2026년 11월 26일 · 보존판(archived edition) · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/AI-Governance-Academy)**
 
-> **번역 및 검토 현황: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 출판물을 AI로 번역한 초벌 번역본으로, 현재 저자의 검토가 진행 중입니다. 아직 최종 번역본은 아니며, 검토가 완료되기 전까지는 영어 원문을 공식 기준으로 합니다. 한국어판과 영어 원문 사이에 차이가 있는 경우 영어 원문이 우선합니다.
+> **번역 및 검토 현황: 초벌 번역, 저자 검토 미완료 (machine draft; the author's review was not completed before the repository was archived on 26 November 2026).** 이 저장소의 한국어 텍스트는 영어판 출판물을 AI로 번역한 초벌 번역본으로, 저자의 검토는 2026년 11월 26일 보존 처리 시점까지 완료되지 않았습니다. 최종 번역본이 아니며, 영어 원문을 공식 기준으로 합니다. 한국어판과 영어 원문 사이에 차이가 있는 경우 영어 원문이 우선합니다.
 
 [English below](#english)
 
@@ -38,11 +42,11 @@ GRC Solutions Korea 대표이사(CEO)
 - 이 글에서 처음 정한 번역 용어는 [CHANGELOG.md](CHANGELOG.md)에 목록으로 기록했으며, 2026년 11월 15일 저자가 승인했습니다.
 - 2026년 11월 25일, 한국어 독자의 의견을 반영하여 이 안내문의 문체를 다듬고, 한국어판 책의 새 제목에 맞추어 원칙 이름의 한국어 설명을 고쳤습니다(v0.2.0).
 
-현재 저자의 문장별 검토가 남아 있습니다. 검토가 완료되면 번역 상태를 갱신할 예정입니다.
+저자의 문장별 검토는 완료되지 않았으며, 이 저장소는 2026년 11월 26일 보존 처리되었습니다.
 
 ## 인용
 
-> 백선우(Son-U Michael Paik). 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.2.1, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
+> 백선우(Son-U Michael Paik). 『증거와 출구』(*The Evidence and the Exit*, 한국어판), AI Governance Academy 한국어판 v0.2.2, 초벌 번역, 저자 검토 미완료. GRC Solutions Korea, 2026. https://github.com/rolldabones/AI-Governance-Academy-ko-wip
 
 내용을 인용할 때는 기준 텍스트인 영어판을 인용해 주십시오. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있습니다.
 
@@ -54,7 +58,7 @@ GRC Solutions Korea 대표이사(CEO)
 
 ## English
 
-**Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** This repository is the parallel Korean repository of [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy). It holds Korean translations of that repository's client-facing publications, made from English v1.22.0 (15 November 2026), with the correction of English v1.24.4 carried in translation. On 25 November 2026, after feedback from Korean readers, the Korean README moved to the polite register (합니다체) and the doctrine gloss follows the book's new Korean title, 최종 책임은 인간이 진다; the publication stays in 한다체. Each is a machine draft that the author is reviewing line by line, not a finished translation. Until that review is complete, the English edition is the text of record and governs wherever the two differ.
+**Status: 초벌 번역, 저자 검토 미완료 (machine draft; the author's review was not completed before the repository was archived on 26 November 2026).** This repository is the parallel Korean repository of [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy). It holds Korean translations of that repository's client-facing publications, made from English v1.22.0 (15 November 2026), with the correction of English v1.24.4 carried in translation. On 25 November 2026, after feedback from Korean readers, the Korean README moved to the polite register (합니다체) and the doctrine gloss follows the book's new Korean title, 최종 책임은 인간이 진다; the publication stays in 한다체. Each is a machine draft, not a finished translation: the author's line review was not completed before the repository was archived on 26 November 2026. The English edition is the text of record and governs wherever the two differ.
 
 **What is here.** One publication: `the-evidence-and-the-exit-ko.md`, the Korean text of *The Evidence and the Exit: An Advanced Workshop on the Hinton Lectures 2026*. The eight program templates are not translated. Whether and in what order the other eleven publications are translated is the author's decision.
 

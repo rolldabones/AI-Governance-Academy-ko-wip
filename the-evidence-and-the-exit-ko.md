@@ -1,5 +1,7 @@
 # 증거와 출구
 
+> **2026년 11월 26일 보존판.** 기계 초벌 번역이며, 저자 검토는 완료되지 않았습니다. 영어 원문이 공식 기준입니다. Archived edition of 26 November 2026: a machine draft whose line review by the author was not completed. The English edition is the text of record. See [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md).
+
 *The Evidence and the Exit*
 
 **2026년 힌턴 강연(Hinton Lectures 2026)에 관한 심화 워크숍(Advanced Workshop)**
